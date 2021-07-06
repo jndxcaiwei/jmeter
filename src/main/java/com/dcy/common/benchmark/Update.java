@@ -9,10 +9,6 @@ import org.apache.logging.log4j.Logger;
 
 import java.sql.*;
 
-/**
- * @author dcy
- * Create Date: 2021-06-08
- */
 public class Update extends AbstractJavaSamplerClient {
     private static final Logger LOGGER = LogManager.getLogger(Update.class);
     Connection connection;
