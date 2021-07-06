@@ -1,5 +1,4 @@
 import com.dcy.common.benchmark.SelectBroadcast;
-import com.dcy.common.benchmark.SelectSingle;
 import com.dcy.common.benchmark.jmeter.JmeterBootstrap;
 import com.dcy.common.benchmark.jmeter.JmeterTestProperties;
 import org.junit.jupiter.api.Test;
